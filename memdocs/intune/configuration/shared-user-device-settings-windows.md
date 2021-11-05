@@ -41,7 +41,7 @@ This article describes some of the settings you can configure in a device config
 
 For more information on this feature in Intune, see [Control access, accounts, and power features on shared PC or multi-user devices](shared-user-device-settings.md). For more information on the Windows CSP, see [SharedPC CSP](/windows/client-management/mdm/sharedpc-csp).
 
-## Before your begin
+## Before you begin
 
 Create a [Windows 10 shared multi-user device configuration profile](shared-user-device-settings.md).
 
